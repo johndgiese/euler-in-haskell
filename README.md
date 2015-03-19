@@ -1,2 +1,3 @@
-# euler-in-haskell
-Working through some Project Euler using haskell
+# Working through Project Euler using Haskell
+
+Just a fun way to get familiar with Haskell.
